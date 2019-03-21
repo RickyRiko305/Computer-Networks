@@ -1,0 +1,16 @@
+observation:-
+part1:
+In the comparision of the 10 traceroute for IP 143.204.93.166  Network: AS1299 - Telia Carrier
+Router: Singapore (snge-b1), all follow the same path for first 4 i.e  mei-b2-link.telia.net (62.115.114.36) -->ffm-bb3-link.telia.net (62.115.112.238)  153.808 ms ffm-bb3-link.telia.net (62.115.133.178)  --> ffm-b12-link.telia.net (62.115.142.5) -->amazon-ic-331705-ffm-b12.c.telia.net (62.115.48.97) . But later it is different in all the 10 cases.
+
+
+part2:
+
+80.239.132.1 --> 213.155.135.178--> 213.155.130.100--> 62.115.142.47--> 62.115.48.97 --> 52.93.111.30 -->54.239.107.63 -->54.239.4.250-->      54.239.106.64 --> 54.239.4.123 --> 143.204.93.166 
+
+
+part3:
+
+ 62.115.143.50 (62.115.143.50)--> s-bb3-link.telia.net (62.115.123.26) -->ffm-bb3-link.telia.net (62.115.138.237) --> ffm-b12-link.telia.net (62.115.142.47)  --> amazon-ic-331705-ffm-b12.c.telia.net (62.115.48.97) --> 52.93.111.20 (52.93.111.20)--> 54.239.107.109 (54.239.107.109) --> 54.239.4.250 (54.239.4.250)--> 54.239.106.148 (54.239.106.148) -->54.239.4.121 (54.239.4.121) -->erver-143-204-93-166.fra50.r.cloudfront.net (143.204.93.166)  
+
+
